@@ -1,0 +1,21 @@
+{
+  "name": "grapqlreactdemo",
+  "version": "1.0.0",
+  "description": "Simple impl of graphQl api with nodeJs and reactJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephen31/graphqlReactDemo.git"
+  },
+  "author": "stephen31",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephen31/graphqlReactDemo/issues"
+  },
+  "homepage": "https://github.com/stephen31/graphqlReactDemo#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
