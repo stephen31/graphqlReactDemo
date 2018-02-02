@@ -7,10 +7,11 @@ import './App.css';
 
 class App extends Component {
   render() {
-    return <Switch>
-    <Route exact path='/' component={UserListContainer}/>
-    <Route path='/todos/:userId' component={TodoListContainer}/>
-</Switch>
+    return 
+      <Switch>
+        <Route exact path='/' component={UserListContainer}/>
+        <Route path='/todos/:userId' component={TodoListContainer}/>
+      </Switch>
     // return (
     //   <div className="App">
     //     <header className="App-header">
